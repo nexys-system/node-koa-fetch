@@ -5,9 +5,13 @@
 
 ## get started
 
-make sure you are running a node version higher than `17.5` (this demo was developed with `17.6`), i.e. `nvm use 17.6`
 
 ```
 yarn
 yarn watch
 ```
+
+
+`fetch` is now enabled by default in node version 18+
+
+`nvm use 18`
