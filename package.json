@@ -1,6 +1,6 @@
 {
   "name": "@nexys-system/node-koa-fetch",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "use of native fetch",
   "main": "index.js",
   "devDependencies": {
