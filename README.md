@@ -1,3 +1,5 @@
+Deprecated: see https://github.com/nexys-system/typescript-package-template for an example with node 18.
+
 # Koa Node typescript with native fetch
 
 [![Test](https://github.com/nexys-system/node-koa-fetch/actions/workflows/test.yml/badge.svg)](https://github.com/nexys-system/node-koa-fetch/actions/workflows/test.yml)
